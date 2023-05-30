@@ -1,0 +1,3 @@
+Database Name: Trinkets_TB
+User Name: guest
+Project Name: Trinkets_TB
